@@ -1,7 +1,5 @@
 <html lang="en">
 
-<!-- Mirrored from restores-metamasks.netlify.app/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 29 Mar 2022 21:13:41 GMT -->
-<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
